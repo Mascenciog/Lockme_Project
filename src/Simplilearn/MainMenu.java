@@ -109,7 +109,7 @@ public class MainMenu {
 	      		}while(str2.compareTo("4")!=0);
 	      		break;
 	      	case "3": 
-	      		System.out.println("Thanks for using the Application!");
+	      		System.out.println("Thanks for using the Application!"); //Test
 	            break;
 	         
 	        default: 
